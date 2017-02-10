@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1BF470908385C2B72CAEF63DAF3FC4109157EB9C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1BF470908385C2B72CAEF63DAF3FC4109157EB9C" : 9223372036854775807,
+    "FFBC50FB2336B1EF871DC2C48BEF20AA7BAF47A5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5C8B12FD-8D76-45AF-A955-95DFAD676F49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1BF470908385C2B72CAEF63DAF3FC4109157EB9C" : "learning\/",
+    "FFBC50FB2336B1EF871DC2C48BEF20AA7BAF47A5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PrimeiroApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift\/PrimeiroApp\/PrimeiroApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/meyrele\/learning.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1BF470908385C2B72CAEF63DAF3FC4109157EB9C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/meyrele\/site-ford.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFBC50FB2336B1EF871DC2C48BEF20AA7BAF47A5"
+    }
+  ]
+}
